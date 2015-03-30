@@ -17,3 +17,5 @@ For PG
  1. Under "What I Do" in your account profile, please make some reference to the Pande Group. Setting your avatar to the [Stanford logo](http://logonoid.com/images/stanford-university-logo.png) would also be ideal to distinguish yourself as a PG member.
  2. Keep your "channel topic" up to date with active projects. Include
     OS, CPU/GPU, FAH status, and project keys.
+ 3. Keep the general "channel topic" up to date with your 
+    active projects. Include the same information as in #2.
