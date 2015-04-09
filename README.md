@@ -18,4 +18,4 @@ For PG
  2. Keep your "channel topic" up to date with active projects. Include
     OS, CPU/GPU, FAH status, and project keys.
  3. Keep the general "channel topic" up to date with your 
-    active projects. Include the same information as in #2.
+    active projects. Include the same information as in #2. Conversely, if there are no internal projects to be tested set the channel topic to "https://github.com/FoldingAtHome/slack-rules | There is currently NO internal testing. | Please visit the beta forum."
