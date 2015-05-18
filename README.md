@@ -19,3 +19,4 @@ For PG
     OS, CPU/GPU, FAH status, and project keys.
  3. Keep the general "channel topic" up to date with your 
     active projects. Include the same information as in #2. Conversely, if there are no internal projects to be tested, please indicate this and refer users to the Beta Forum.
+ 4. When advancing a project to Beta, please give internal users at least a day's notice.
