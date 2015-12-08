@@ -29,6 +29,8 @@ For issues related to Sony and Android mobile clients— please contact:
 
 + [Muneeb Sultan](mailto:msultan@stanford.edu) (slack: [@msultan](https://foldingathome.slack.com/messages/@msultan/)) and [Mark Piercy](mailto:mpiercy@stanford.edu)
 
+Please include the client version (if possible) in your correspondence.
+
 ## Work Server Issues
 
 If you encounter systematically failing WUs or believe there are misconfigured work server settings— please contact:
@@ -39,21 +41,22 @@ If there seems to be odd work server behavior system-wide— please contact:
 
 + [Joseph Coffland](mailto:joseph@cauldrondevelopment.com) (slack: [@jcoffland](https://foldingathome.slack.com/messages/@jcoffland/))
 
+Please include the IP address of the offending work server(s) in your correspondence.
+
 ## Website Issues
 
 If content is not loading correctly correctly or fah-web.stanford.edu is unpingable— please contact:
 
-+ [Joseph Coffland](mailto:joseph@cauldrondevelopment.com) (slack: [@jcoffland](https://foldingathome.slack.com/messages/@jcoffland/)) and [Vijay Pande](mailto:pande@stanford.edu)
++ [Joseph Coffland](mailto:joseph@cauldrondevelopment.com) (slack: [@jcoffland](https://foldingathome.slack.com/messages/@jcoffland/)) and [Mark Piercy](mailto:mpiercy@stanford.edu)
 
 ## Stats System Issues
 
 If points are not being awarded correctly for a particular project— please contact:
 
 + Appropriate project manager listed on the [Project Summary Webpage](http://fah-web.stanford.edu/new/psummaryC.html).
++ cc: [Carlos Hernández](mailto: cxh@stanford.edu) (slack: [@cxh](https://foldingathome.slack.com/messages/@cxh/)) and [Muneeb Sultan](mailto:msultan@stanford.edu) (slack: [@msultan](https://foldingathome.slack.com/messages/@msultan/))
 
-If there are system-wide issues— please contact:
-
-+ [Carlos Hernández](mailto: cxh@stanford.edu) (slack: [@cxh](https://foldingathome.slack.com/messages/@cxh/)) and [Muneeb Sultan](mailto:msultan@stanford.edu) (slack: [@msultan](https://foldingathome.slack.com/messages/@msultan/))
+Please include Project/Run/Clone information along with the IP address of the offending work server(s) in your correspondence.
 
 ## Collection Server Issues
 
@@ -68,6 +71,8 @@ For problems with Sloan Kettering collection servers— please contact:
 For general collection server issues— please contact:
 
 + [Joseph Coffland](mailto:joseph@cauldrondevelopment.com) (slack: [@jcoffland](https://foldingathome.slack.com/messages/@jcoffland/)) and [Vijay Pande](mailto:pande@stanford.edu)
+
+Please include project information and the IP address of the offending collection server in your correspondence.
 
 ## Assignment Server Issues
 
