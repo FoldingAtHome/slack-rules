@@ -17,7 +17,7 @@ For PG
  1. Under "What I Do" in your account profile, please make some reference to the Pande Group. Setting your avatar to the [Stanford logo](http://logonoid.com/images/stanford-university-logo.png) would also be ideal to distinguish yourself as a PG member.
  1. Create your channel in accordance with your assigned project series (e.g. if you own the 94XX series, please create a #9400 channel). This keeps communication more or less organized, without the need for hundreds of different channels.
  1. Keep your "channel topic" up to date with active projects. Include
-    `OS`, `CPU`/`GPU`, FAH status, and `ProjectKey`.
+    `OS`, `core`, FAH status, and `ProjectKey`.
  1. Keep the general "channel topic" up to date with your 
     active projects. Include the same information as in #2. Conversely, if there are no internal projects to be tested, please indicate this and refer users to the `BETA` Forum.
  1. Configure your workserver to assign to at least both `INTERNAL` _and_ `BETA` while your project is on `INTERNAL`. This makes it easier for the donors report points estimates from [`HFM.NET`](https://code.google.com/archive/p/hfm-net/).
