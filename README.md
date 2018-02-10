@@ -21,4 +21,5 @@ For Project Managers
  1. Keep the general "channel topic" up to date with your 
     active projects. Include the same information as in #2. Conversely, if there are no internal projects to be tested, please indicate this and refer users to the `BETA` Forum.
  1. Configure your workserver to assign to at least both `INTERNAL` _and_ `BETA` while your project is on `INTERNAL`. This makes it easier for the donors report points estimates from [`HFM.NET`](https://code.google.com/archive/p/hfm-net/).
+ 1. Assign a `ProjectKey` which will be uniquely associated with your project but isn't easy to guess. Must be an integer that does not start with `0`. For example, Nikola Tesla's birth date: `10071856`.
  1. When advancing a project to `BETA`, please give internal users at least a day's notice.
